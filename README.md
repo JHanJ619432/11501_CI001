@@ -3,14 +3,14 @@
 ## Course Information
 - **Course ID**: 11501_CI001
 - **Course Name**: C++ Programming Laboratory (I)
-- **Instructor**: [Yu-Feng Huang](yfhuang@saturn.yzu.edu.tw)
+- **Instructor**: [Yu-Feng Huang](mailto:yfhuang@saturn.yzu.edu.tw)
 
 ## About Me
 - **Student ID**: 1151528
 - **Student Name**:  陳威翰 WEI-HAN CHEN
 - **Major class** :  CS_Freshman_B 
-- **Student E-mail**: [陳威翰_學校](s1151528@mail.yzu.edu.tw)
-- **Personal E-mail**: [陳威翰_個人](jerry960829@gmail.com)
+- **Student E-mail**: [陳威翰_學校](mailto:s1151528@mail.yzu.edu.tw)
+- **Personal E-mail**: [陳威翰_個人](mailto:jerry960829@gmail.com)
 ## 🎯Repository Purpose
 store something about......  
 ### 1. *assignments*: Solutions and source code for weekly C++ programming homework.  
