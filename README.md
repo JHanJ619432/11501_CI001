@@ -18,4 +18,4 @@ store something about......
 ### 3. *documentation*: Technical notes, C++ learning resources, and setup guides for future reference.    
 for the CI001 course.
 ## GitHub Pages Site
-Visit my personal website: [https://<JHanJ619432>.github.io/](https://<JHanJ619432>.github.io/)
+Visit my personal website: [https://JHanJ619432.github.io/](https://JHanJ619432.github.io/)
