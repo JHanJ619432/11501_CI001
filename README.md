@@ -9,8 +9,8 @@
 - **Student ID**: 1151528
 - **Student Name**:  陳威翰 WEI-HAN CHEN
 - **Major class** :  CS_Freshman_B 
-- **Student E-mail**: [陳威翰_學校](s1151528@mail.yzu.edu.tw)
-- **Personal E-mail**: [陳威翰_個人](jerry960829@gmail.com)
+- **Student E-mail**: [s1151528@mail.yzu.edu.tw](s1151528@mail.yzu.edu.tw)
+- **Personal E-mail**: [jerry960829@gmail.com](jerry960829@gmail.com)
 ## 🎯Repository Purpose
 store something about......  
 ### 1. *assignments*: Solutions and source code for weekly C++ programming homework.  
